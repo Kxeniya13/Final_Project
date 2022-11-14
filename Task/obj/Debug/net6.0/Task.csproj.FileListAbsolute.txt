@@ -1,0 +1,15 @@
+H:\GEEKBRAINS\Final_test\Task\bin\Debug\net6.0\Task.exe
+H:\GEEKBRAINS\Final_test\Task\bin\Debug\net6.0\Task.deps.json
+H:\GEEKBRAINS\Final_test\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+H:\GEEKBRAINS\Final_test\Task\bin\Debug\net6.0\Task.dll
+H:\GEEKBRAINS\Final_test\Task\bin\Debug\net6.0\Task.pdb
+H:\GEEKBRAINS\Final_test\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+H:\GEEKBRAINS\Final_test\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+H:\GEEKBRAINS\Final_test\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+H:\GEEKBRAINS\Final_test\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+H:\GEEKBRAINS\Final_test\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+H:\GEEKBRAINS\Final_test\Task\obj\Debug\net6.0\Task.dll
+H:\GEEKBRAINS\Final_test\Task\obj\Debug\net6.0\refint\Task.dll
+H:\GEEKBRAINS\Final_test\Task\obj\Debug\net6.0\Task.pdb
+H:\GEEKBRAINS\Final_test\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+H:\GEEKBRAINS\Final_test\Task\obj\Debug\net6.0\ref\Task.dll
